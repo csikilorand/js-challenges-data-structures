@@ -21,6 +21,6 @@ function isAlphaNumeric(char){
     )
 }
 const a = 'as$%^dsa';
-console.log(isPalindrome(a))
+
 
 module.exports = isPalindrome;
